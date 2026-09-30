@@ -27,4 +27,3 @@ target/
 .vscode/
 
 .gitignore
-.frontend
