@@ -1,0 +1,25 @@
+:root {
+  --color-accent: #412ce7;
+  --color-accent-hover: #2e1cbe;
+  --color-accent-active: #301dbe;
+  --button-primary-text-color: #fff;
+  --button-secondary-background-color: #f8f9ff;
+  --button-secondary-background-color-hover: #dee2f7;
+  --button-secondary-background-color-active: #ccd1ec;
+  --button-danger-background-color: #fff1ed;
+  --button-danger-background-color-hover: #f3bcad;
+  --button-danger-background-color-active: #f6b2a0;
+  --text-color-danger: #ba1a1a;
+  --border-color: #c7c4d9;
+  --text-color: #464556;
+  --important-text-color: #0b1c30;
+  --background-layout-registration: #fff;
+  --background-layout: #f8f9ff;
+  --background-for-elements: #e3dfff;
+  --background-for-main-elements: #e5eeff;
+  --corner-radius-8px: 8px;
+  --input-background-color: #fff;
+
+  --font-size-14-18: clamp(0.875em, calc(0.804em + 0.357vw), 1.125em);
+  --font-size-12: clamp(0.75em, calc(0.696em + 0.178vw), 0.875em);
+}
